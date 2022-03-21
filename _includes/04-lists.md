@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* :smile: I am optimist.
+  * :heart: I love cooking, learning musical instruments and playing games.
